@@ -23,10 +23,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![ScreenRecording2025-01-13at11 25 51PM-ezgif com-resize](https://github.com/user-attachments/assets/316dbdd1-ad44-4df7-b56b-f87257239cac)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  EZGif
+GIF created with EZGif
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
